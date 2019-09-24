@@ -1,4 +1,5 @@
 # vue-my-todo
+![Screenshot](Screenshot_17.png)
 Веб-приложение vue-my-todo  В общем есть список задач, задачи можно удалять, добавлять.
 Технологический стек
 Vue + Babel + Sass + ESLint+ Element UI
