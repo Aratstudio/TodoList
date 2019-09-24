@@ -1,29 +1,30 @@
 # vue-my-todo
-
-## Project setup
+Веб-приложение vue-my-todo  А также позволит добавлять новые и
+управлять информацией о них.
+Технологический стек
+Vue + VueX + vue-router + Babel + Sass + ESLint+ Element UI
+## Установка проекта
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Запуск
 ```
 yarn run serve
 ```
 
-### Compiles and minifies for production
+### Собрать
 ```
 yarn run build
 ```
 
-### Run your tests
+### Тестирование
 ```
 yarn run test
 ```
 
-### Lints and fixes files
+### Для исправления
 ```
 yarn run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
