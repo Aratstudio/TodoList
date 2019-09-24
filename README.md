@@ -1,8 +1,7 @@
 # vue-my-todo
-Веб-приложение vue-my-todo  А также позволит добавлять новые и
-управлять информацией о них.
+Веб-приложение vue-my-todo  В общем есть список задач, задачи можно удалять, добавлять.
 Технологический стек
-Vue + VueX + vue-router + Babel + Sass + ESLint+ Element UI
+Vue + Babel + Sass + ESLint+ Element UI
 ## Установка проекта
 ```
 yarn install
